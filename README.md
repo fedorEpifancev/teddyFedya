@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @teddyFedya
-- 👀 I’m interested in Neural Networks, algorithms and Backend 
-- 💞️ I’m looking to collaborate on AI projects, software development
+- 👋 Hi, I’m Fedor
+- 👀 I’m interested in Neural Networks, algorithms and Backend
 
 <!---
 teddyFedya/teddyFedya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
